@@ -11,7 +11,7 @@
 <body>
 	<div class="superior">
 				
-                <nav>
+                <nav class="navbar navbar-dark bg-primary">
                     Contacto |  
                     <a href="Home">Home</a>  | 
                     <a href="ContactoController">Contacto</a> |
@@ -28,9 +28,9 @@
 
 	<div class="medio">
 		
-		<table class="tabla">
+		<table class="table table-striped">
 			<thead>
-				<tr class="campos">
+				<tr>
 				<th>Id de capacitación</th>
 				<th>Nombre del cliente</th>
 				<th>Lugar</th>
