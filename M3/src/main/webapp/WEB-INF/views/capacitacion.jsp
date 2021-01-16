@@ -46,7 +46,7 @@
 			<tbody>
 				<c:forEach var="e" items="${lista}">
 					<tr>
-						<td><c:out value="${lista.getId_capa()}"></c:out></td>
+						<td><c:out value="${e.getId_capa()}"></c:out></td>
 						<td><c:out value="${e.getNombreapellido()}"></c:out></td>
 						<td><c:out value="${e.getLugar()}"></c:out></td>
 						<td><c:out value="${e.getEmail()}"></c:out></td>
