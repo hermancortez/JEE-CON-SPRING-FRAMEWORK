@@ -43,6 +43,4 @@ muchas empresas se encuentran en zonas donde no hay conexión de ese tipo.
 * Edgar Cabezas
 * Herman Cortez
 
-### Fecha ###
-* 15-01-2020
-* Modulo 5 Spring Framework
+
